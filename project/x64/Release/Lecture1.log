@@ -1,0 +1,31 @@
+﻿  DrawFunctions.cpp
+  Game2D.cpp
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\github\vcpkg\installed\x64-windows\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(45): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(50): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(75): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(80): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(124): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(128): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(143): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(144): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(145): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(243): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(255): error C2065: 'ap': undeclared identifier
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(256): error C2143: syntax error: missing ';' before 'else'
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(256): error C2181: illegal else without matching if
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(278): warning C4553: '==': result of expression not used; did you intend '='?
+c:\github\gamedevpracticepackage\chapter1\lecture1\tankexample.h(281): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Timer.cpp
